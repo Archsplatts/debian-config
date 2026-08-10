@@ -51,7 +51,6 @@ SWAY_PKGS=(
 	"xdg-desktop-portal" 
 	"xdg-desktop-portal-gtk" 
 	"xdg-desktop-portal-wlr" 
-	"xfce-polkit" 
 	"xwayland"
 )
 
@@ -65,7 +64,6 @@ APPS_PKGS=(
 	"firefox-esr"
 	"galculator"
 	"gnome-disk-utility"
-	"impression"
 	"lollypop"
 	"mpv"
 	"nwg-look"
