@@ -106,6 +106,7 @@ echo -e "${JAUNE}━━━━━━━━━━━━━━━━━━━━━
 mkdir -p ~/.config
 mkdir -p ~/Images/Wallpapers
 mkdir -p ~/.scripts
+mkdir -p $HOME/.local/share/themes
 cp -r ~/debian-config/config/* ~/.config
 cp ~/debian-config/call-it-a-day.jpg ~/Images/Wallpapers
 cp ~/debian-config/papirus-folders ~/.scripts
