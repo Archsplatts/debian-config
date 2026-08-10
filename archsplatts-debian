@@ -109,6 +109,7 @@ mkdir -p $HOME/.local/share/fonts
 cp -r ~/debian-config/config/* ~/.config
 cp ~/debian-config/call-it-a-day.jpg ~/Images/Wallpapers
 cp ~/debian-config/papirus-folders ~/.scripts
+cp zshrc $HOME/.zshrc
 chmod u+x ~/.scripts/papirus-folders
 chmod u+x ~/.config/rofi/scripts/*
 chmod u+x ~/.config/sway/scripts/*
