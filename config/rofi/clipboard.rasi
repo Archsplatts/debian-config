@@ -25,7 +25,7 @@ window {
     width: 600px;
     location: center;
  	border:           	3px;
-	border-color:		@blue;
+	border-color:		@red;
     border-radius:  	8px;  
     padding:          	14px; 
 }
@@ -86,7 +86,7 @@ element {
 
 element selected  normal, element selected active {
     background-color: inherit;
-    text-color: @blue;
+    text-color: @red;
 }   
 
 element normal normal {
