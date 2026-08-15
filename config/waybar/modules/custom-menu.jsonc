@@ -1,0 +1,7 @@
+{
+	"custom/menu": {
+		"format": "",
+		"on-click": "rofi -show drun -config $HOME/.config/rofi/applications-menu.rasi",
+		"tooltip": false
+	}
+}	
