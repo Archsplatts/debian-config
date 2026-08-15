@@ -12,7 +12,7 @@ configuration {
     background:     rgba(30, 30, 46,0.90);
     background-alt: #313244;
     foreground:     #c6d0f5;
-    selected:       #89b4fa;
+    selected:       #f38ba8;
     active:         #98C379FF;
     urgent:         #E06B74FF;
 }
