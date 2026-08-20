@@ -4,7 +4,7 @@
 	    "on-click": "$HOME/.config/waybar/scripts/checkupdates; pkill -SIGRTMIN+1 waybar", 
 	    "interval": 3600, 
 	    "return-type": "json",
-	    "format": "{} {icon}",
+	    "format": "{0}{icon}",
 	    "format-icons": {
 	        "has-updates": "",
 	        "updated": "" 
